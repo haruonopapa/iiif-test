@@ -1,0 +1,480 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "寛永諸家系図伝（川勝）"
+    ]
+  },
+  "items": [
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/1",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "1頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/1",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_001/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_001",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/2",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "2頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/2",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_002/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_002",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/3",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "3頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/3",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_003/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_003",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/4",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "4頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/4",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_004/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_004",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/5",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "5頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/5",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_005/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_005",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/6",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "6頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/6",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_006/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_006",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/7",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "7頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/7",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_007/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_007",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/8",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "8頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/8",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_008/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_008",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/9",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "9頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/9",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_009/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_009",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/10",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "10頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/10",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_010/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_010",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/11",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "11頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/11",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_011/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_011",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/12",
+      "type": "Canvas",
+      "width": 4963,
+      "height": 3497,
+      "label": {
+        "ja": [
+          "12頁"
+        ]
+      },
+      "items": [
+        {
+          "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/page/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://127.0.0.1:8182/manifest/kanei_kawakatsu/canvas/12",
+              "body": {
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_012/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 4963,
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_012",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
