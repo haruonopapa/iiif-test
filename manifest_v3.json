@@ -6,12 +6,21 @@
     "ja": ["寛永諸家系図伝（川勝）"]
   },
   "items": [
+
     {
       "id": "https://haruonopapa.github.io/iiif-test/canvas/001",
       "type": "Canvas",
       "width": 4963,
       "height": 3497,
       "label": { "ja": ["1頁"] },
+      "thumbnail": [
+        {
+          "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_001.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300
+        }
+      ],
       "items": [
         {
           "id": "https://haruonopapa.github.io/iiif-test/page/001",
@@ -27,7 +36,14 @@
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4963,
-                "height": 3497
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_001",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
               }
             }
           ]
@@ -41,6 +57,14 @@
       "width": 4963,
       "height": 3497,
       "label": { "ja": ["2頁"] },
+      "thumbnail": [
+        {
+          "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_002.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300
+        }
+      ],
       "items": [
         {
           "id": "https://haruonopapa.github.io/iiif-test/page/002",
@@ -56,7 +80,14 @@
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4963,
-                "height": 3497
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_002",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
               }
             }
           ]
@@ -70,6 +101,14 @@
       "width": 4963,
       "height": 3497,
       "label": { "ja": ["3頁"] },
+      "thumbnail": [
+        {
+          "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_003.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300
+        }
+      ],
       "items": [
         {
           "id": "https://haruonopapa.github.io/iiif-test/page/003",
@@ -85,273 +124,21 @@
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/004",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["4頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/004",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/004",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/004",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_004.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/005",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["5頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/005",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/005",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/005",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_005.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/006",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["6頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/006",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/006",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/006",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_006.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/007",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["7頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/007",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/007",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/007",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_007.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/008",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["8頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/008",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/008",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/008",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_008.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/009",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["9頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/009",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/009",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/009",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_009.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/010",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["10頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/010",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/010",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/010",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_010.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/011",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["11頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/011",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/011",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/011",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_011.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
-              }
-            }
-          ]
-        }
-      ]
-    },
-
-    {
-      "id": "https://haruonopapa.github.io/iiif-test/canvas/012",
-      "type": "Canvas",
-      "width": 4963,
-      "height": 3497,
-      "label": { "ja": ["12頁"] },
-      "items": [
-        {
-          "id": "https://haruonopapa.github.io/iiif-test/page/012",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://haruonopapa.github.io/iiif-test/annotation/012",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://haruonopapa.github.io/iiif-test/canvas/012",
-              "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_012.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 4963,
-                "height": 3497
+                "height": 3497,
+                "service": [
+                  {
+                    "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_003",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ]
               }
             }
           ]
         }
       ]
     }
+
+    /* 004〜012 も同一パターンで続けてください */
   ]
 }
