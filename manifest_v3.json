@@ -32,16 +32,16 @@
               "motivation": "painting",
               "target": "https://haruonopapa.github.io/iiif-test/canvas/001",
               "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_001.jpg",
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_001/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4963,
                 "height": 3497,
                 "service": [
                   {
-                    "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_001",
-                    "type": "ImageService3",
-                    "profile": "level0"
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_001",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -76,16 +76,16 @@
               "motivation": "painting",
               "target": "https://haruonopapa.github.io/iiif-test/canvas/002",
               "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_002.jpg",
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_002/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4963,
                 "height": 3497,
                 "service": [
                   {
-                    "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_002",
-                    "type": "ImageService3",
-                    "profile": "level0"
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_002",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -120,16 +120,16 @@
               "motivation": "painting",
               "target": "https://haruonopapa.github.io/iiif-test/canvas/003",
               "body": {
-                "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_003.jpg",
+                "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_003/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 4963,
                 "height": 3497,
                 "service": [
                   {
-                    "id": "https://haruonopapa.github.io/iiif-test/images/寛永諸家系図伝（川勝）_page_003",
-                    "type": "ImageService3",
-                    "profile": "level0"
+                    "id": "http://127.0.0.1:8182/iiif/2/寛永諸家系図伝（川勝）_page_003",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               }
@@ -138,5 +138,6 @@
         }
       ]
     }
+
   ]
 }
