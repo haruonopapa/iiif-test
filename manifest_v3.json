@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://YOUR_ACCOUNT.github.io/iiif/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": ["寛永諸家系図伝（川勝氏）"]
+  },
+  "items": [
+    {
+      "id": "https://YOUR_ACCOUNT.github.io/iiif/canvas/001",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 2000,
+      "label": {
+        "ja": ["1コマ目"]
+      },
+      "items": [
+        {
+          "id": "https://YOUR_ACCOUNT.github.io/iiif/page/001/annotation_page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://YOUR_ACCOUNT.github.io/iiif/page/001/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://YOUR_ACCOUNT.github.io/iiif/canvas/001",
+              "body": {
+                "id": "https://YOUR_ACCOUNT.github.io/iiif/image/001/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://YOUR_ACCOUNT.github.io/iiif/image/001",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "width": 2000,
+                "height": 3000
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
